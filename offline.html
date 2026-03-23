@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sin conexión | LIDLT</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0a0a14;
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+      text-align: center;
+    }
+    .logo {
+      font-size: 2.5rem;
+      font-weight: 800;
+      color: #e74444;
+      margin-bottom: 1.5rem;
+    }
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+      color: #fff;
+    }
+    p {
+      color: #9ca3af;
+      max-width: 400px;
+      line-height: 1.6;
+      margin-bottom: 2rem;
+    }
+    .icon {
+      width: 64px;
+      height: 64px;
+      margin-bottom: 1.5rem;
+      opacity: 0.5;
+    }
+    button {
+      background: #e74444;
+      color: #fff;
+      border: none;
+      padding: 0.75rem 2rem;
+      border-radius: 0.5rem;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    button:hover {
+      background: #d42626;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo">LIDLT</div>
+  <svg class="icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
+      d="M18.364 5.636a9 9 0 11-12.728 0M12 9v4m0 4h.01" />
+  </svg>
+  <h1>Sin conexión</h1>
+  <p>
+    No se puede conectar a internet. Comprueba tu conexión e inténtalo de nuevo.
+    Algunos contenidos pueden estar disponibles en caché.
+  </p>
+  <button onclick="window.location.reload()">Reintentar</button>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <rect width="600" height="200" rx="12" fill="#18181b"/>
+
+  <!-- Card background -->
+  <rect x="140" y="45" width="320" height="110" rx="10" fill="#27272a" stroke="#3f3f46" stroke-width="1"/>
+
+  <!-- Label -->
+  <text x="195" y="90" font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="white" font-weight="500">Modo de desarrollador</text>
+
+  <!-- Toggle track (ON state) -->
+  <rect x="195" y="105" width="50" height="26" rx="13" fill="#006027"/>
+  <!-- Green glow -->
+  <rect x="195" y="105" width="50" height="26" rx="13" fill="#2bfa80" opacity="0.3"/>
+  <!-- Toggle knob (ON position - right side) -->
+  <circle cx="232" cy="118" r="10" fill="white"/>
+
+  <!-- ON text -->
+  <text x="260" y="123" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#2bfa80" font-weight="600">ON</text>
+
+  <!-- Arrow pointing to toggle -->
+  <g transform="translate(290, 100)">
+    <path d="M40,20 L15,20" stroke="#2bfa80" stroke-width="2" stroke-linecap="round" fill="none" stroke-dasharray="4,3"/>
+    <polyline points="20,14 12,20 20,26" fill="none" stroke="#2bfa80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

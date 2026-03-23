@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <rect width="600" height="200" rx="12" fill="#18181b"/>
+
+  <!-- File picker dialog -->
+  <rect x="80" y="20" width="440" height="160" rx="10" fill="#27272a" stroke="#3f3f46" stroke-width="1.5"/>
+
+  <!-- Dialog title bar -->
+  <rect x="80" y="20" width="440" height="32" rx="10" fill="#3f3f46"/>
+  <rect x="80" y="40" width="440" height="12" fill="#3f3f46"/>
+  <text x="300" y="42" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#a1a1aa" text-anchor="middle">Seleccionar carpeta</text>
+
+  <!-- Folder rows -->
+  <rect x="100" y="62" width="400" height="28" rx="4" fill="#3f3f46" opacity="0.4"/>
+  <text x="140" y="81" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#a1a1aa">Documentos</text>
+  <!-- Folder icon -->
+  <g transform="translate(108, 69)" fill="#a1a1aa">
+    <path d="M0,4 L0,2 Q0,0 2,0 L7,0 L9,3 L18,3 Q20,3 20,5 L20,14 Q20,16 18,16 L2,16 Q0,16 0,14 Z" fill="none" stroke="#a1a1aa" stroke-width="1.2"/>
+  </g>
+
+  <!-- Selected folder row (highlighted) -->
+  <rect x="100" y="94" width="400" height="28" rx="4" fill="#006027" stroke="#2bfa80" stroke-width="1.5"/>
+  <!-- Folder icon green -->
+  <g transform="translate(108, 101)" fill="#2bfa80">
+    <path d="M0,4 L0,2 Q0,0 2,0 L7,0 L9,3 L18,3 Q20,3 20,5 L20,14 Q20,16 18,16 L2,16 Q0,16 0,14 Z" fill="none" stroke="#2bfa80" stroke-width="1.2"/>
+  </g>
+  <text x="140" y="113" font-family="ui-monospace, monospace" font-size="12" fill="#2bfa80" font-weight="600">lidlt-extension</text>
+  <!-- Checkmark on selected -->
+  <g transform="translate(470, 103)">
+    <polyline points="0,5 4,10 12,0" fill="none" stroke="#2bfa80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <rect x="100" y="126" width="400" height="28" rx="4" fill="#3f3f46" opacity="0.4"/>
+  <text x="140" y="145" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#a1a1aa">Descargas</text>
+  <g transform="translate(108, 133)" fill="#a1a1aa">
+    <path d="M0,4 L0,2 Q0,0 2,0 L7,0 L9,3 L18,3 Q20,3 20,5 L20,14 Q20,16 18,16 L2,16 Q0,16 0,14 Z" fill="none" stroke="#a1a1aa" stroke-width="1.2"/>
+  </g>
+
+  <!-- Open button -->
+  <rect x="420" y="160" width="80" height="28" rx="6" fill="#006027"/>
+  <text x="460" y="179" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="white" text-anchor="middle" font-weight="500">Abrir</text>
+</svg>

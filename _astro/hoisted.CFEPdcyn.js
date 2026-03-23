@@ -1,0 +1,1 @@
+const n=document.getElementById("mobile-menu-btn"),t=document.getElementById("mobile-menu");n?.addEventListener("click",()=>{t?.classList.toggle("hidden")});"serviceWorker"in navigator&&window.addEventListener("load",()=>{navigator.serviceWorker.register("/sw.js").catch(e=>{console.warn("SW registration failed:",e)})});

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <rect width="600" height="200" rx="12" fill="#18181b"/>
+
+  <!-- Browser window frame -->
+  <rect x="60" y="35" width="480" height="130" rx="10" fill="#27272a" stroke="#3f3f46" stroke-width="1.5"/>
+
+  <!-- Title bar -->
+  <rect x="60" y="35" width="480" height="36" rx="10" fill="#3f3f46"/>
+  <rect x="60" y="55" width="480" height="16" fill="#3f3f46"/>
+
+  <!-- Window dots -->
+  <circle cx="82" cy="53" r="5" fill="#ef4444" opacity="0.8"/>
+  <circle cx="98" cy="53" r="5" fill="#eab308" opacity="0.8"/>
+  <circle cx="114" cy="53" r="5" fill="#22c55e" opacity="0.8"/>
+
+  <!-- Address bar -->
+  <rect x="135" y="43" width="370" height="22" rx="6" fill="#18181b"/>
+
+  <!-- URL text -->
+  <text x="148" y="59" font-family="ui-monospace, monospace" font-size="13" fill="#2bfa80" font-weight="500">chrome://extensions</text>
+
+  <!-- Page content placeholder lines -->
+  <rect x="90" y="90" width="180" height="10" rx="3" fill="#3f3f46"/>
+  <rect x="90" y="110" width="130" height="10" rx="3" fill="#3f3f46"/>
+  <rect x="90" y="130" width="200" height="10" rx="3" fill="#3f3f46"/>
+
+  <!-- Puzzle piece icon (extension icon) -->
+  <g transform="translate(420, 88)">
+    <rect x="8" y="12" width="24" height="24" rx="3" fill="none" stroke="#a1a1aa" stroke-width="1.5"/>
+    <rect x="15" y="4" width="10" height="12" rx="5" fill="none" stroke="#a1a1aa" stroke-width="1.5"/>
+    <rect x="28" y="18" width="12" height="10" rx="5" fill="none" stroke="#a1a1aa" stroke-width="1.5"/>
+  </g>
+</svg>

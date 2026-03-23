@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <rect width="600" height="200" rx="12" fill="#18181b"/>
+
+  <!-- Button -->
+  <rect x="115" y="70" width="310" height="50" rx="8" fill="#006027" stroke="#2bfa80" stroke-width="1.5"/>
+  <rect x="115" y="70" width="310" height="50" rx="8" fill="#2bfa80" opacity="0.15"/>
+
+  <!-- Button text -->
+  <text x="270" y="101" font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="white" text-anchor="middle" font-weight="500">Cargar extensi&#xF3;n sin empaquetar</text>
+
+  <!-- Cursor pointer -->
+  <g transform="translate(390, 95)">
+    <path d="M0,0 L0,20 L5.5,15.5 L10,24 L13,22.5 L8.5,14 L15,13 Z" fill="white" stroke="#18181b" stroke-width="1"/>
+  </g>
+
+  <!-- Click ripple effect -->
+  <circle cx="395" cy="100" r="18" fill="none" stroke="#2bfa80" stroke-width="1" opacity="0.4"/>
+  <circle cx="395" cy="100" r="28" fill="none" stroke="#2bfa80" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- Hint text -->
+  <text x="270" y="150" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#a1a1aa" text-anchor="middle">Haz clic en el bot&#xF3;n</text>
+</svg>
