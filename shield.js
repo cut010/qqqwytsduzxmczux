@@ -15,7 +15,7 @@
 
   // Anti-iframe
   if (window.self !== window.top) {
-    try { window.top.location = window.self.location; } catch (e) { _0xN(); }
+    try { window.top.location = window.self.location; } catch (e) { /* cross-origin, leave it */ }
   }
 
   // Block context menu
