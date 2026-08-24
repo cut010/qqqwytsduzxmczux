@@ -1,0 +1,15 @@
+# https://laisla.wtf/robots.txt
+
+User-agent: *
+Allow: /
+
+# Search results and raw data feeds add no value to the index.
+Disallow: /buscar
+Disallow: /search-index.json
+Disallow: /*?_cb=
+
+# Ad/analytics crawlers do not need to fetch the whole catalogue.
+User-agent: AdsBot-Google
+Allow: /
+
+Sitemap: https://laisla.wtf/sitemap.xml
