@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[83208,["/_next/static/chunks/13wlpkxog3k4r.js","/_next/static/chunks/0o2k9w69gbok4.js"],"default"]
+4:I[97367,["/_next/static/chunks/13wlpkxog3k4r.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/13wlpkxog3k4r.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/13wlpkxog3k4r.js"],"MetadataBoundary"]
+b:I[27201,["/_next/static/chunks/13wlpkxog3k4r.js"],"IconMark"]
+d:I[39756,["/_next/static/chunks/13wlpkxog3k4r.js"],"default"]
+e:I[37457,["/_next/static/chunks/13wlpkxog3k4r.js"],"default"]
+3:["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","h1",null,{"className":"font-display text-2xl font-bold text-white","children":"Ver episodio"}],["$","p",null,{"className":"mt-3 prose-isla","children":"Esta página necesita JavaScript para cargar el episodio. Puedes entrar directamente a cualquier temporada:"}],["$","p",null,{"className":"mt-5","children":["$","a",null,{"href":"/temporadas/","className":"text-brand-400 hover:text-brand-300","children":"Ver todas las temporadas"}]}]]}]
+8:X
+10:X
+10:C
+0:{"buildId":"WpPIcx2xgBjEbQUEPMr6V","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","noscript",null,{"children":"$3"}]],[["$","script","script-0",{"src":"/_next/static/chunks/0o2k9w69gbok4.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#09090b"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Ver episodio | La Isla de las Tentaciones"}],["$","meta","1",{"name":"description","content":"Ver episodios completos de La Isla de las Tentaciones online y gratis."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","3",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"La Isla"}],["$","link","5",{"rel":"canonical","href":"https://laisla.wtf/ver/"}],["$","link","6",{"rel":"alternate","hrefLang":"es","href":"https://laisla.wtf/ver/"}],["$","link","7",{"rel":"alternate","hrefLang":"x-default","href":"https://laisla.wtf/ver/"}],["$","meta","8",{"property":"og:title","content":"Ver episodio"}],["$","meta","9",{"property":"og:description","content":"Ver episodios completos de La Isla de las Tentaciones online y gratis."}],["$","meta","10",{"property":"og:url","content":"https://laisla.wtf/ver/"}],["$","meta","11",{"property":"og:site_name","content":"La Isla de las Tentaciones"}],["$","meta","12",{"property":"og:locale","content":"es_ES"}],["$","meta","13",{"property":"og:image","content":"https://laisla.wtf/images/og-default.jpg"}],["$","meta","14",{"property":"og:image:alt","content":"Ver episodio"}],["$","meta","15",{"property":"og:type","content":"video.episode"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Ver episodio"}],["$","meta","18",{"name":"twitter:description","content":"Ver episodios completos de La Isla de las Tentaciones online y gratis."}],["$","meta","19",{"name":"twitter:image","content":"https://laisla.wtf/images/og-default.jpg"}],["$","link","20",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link","21",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$Lb","22",{}]]}]}]}],null]}],"isPartial":"$@c","staleTime":"$8","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@f","staleTime":"$8","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+6:null
+12:true
+8:300
+8:C
+11:0
+c:"$undefined"
+f:"$undefined"
+7:"$undefined"

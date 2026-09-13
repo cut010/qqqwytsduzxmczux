@@ -1,0 +1,25 @@
+{
+  "name": "La Isla de las Tentaciones",
+  "short_name": "La Isla",
+  "description": "Todas las temporadas de La Isla de las Tentaciones online y gratis.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "categories": ["entertainment", "video"],
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Temporadas", "url": "/temporadas" },
+    { "name": "Participantes", "url": "/participantes" },
+    { "name": "Buscar", "url": "/buscar" }
+  ]
+}

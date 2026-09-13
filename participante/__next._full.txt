@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+f:I[68027,["/_next/static/chunks/13wlpkxog3k4r.js"],"default",1]
+:HL["/_next/static/chunks/2ipsvptw6dx37.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Space+Grotesk:wght@600;700&display=swap","style",{"media":"print"}]
+2:["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Space+Grotesk:wght@600;700&display=swap"}]
+d:X
+0:{"P":null,"c":["","participante",""],"q":"","i":false,"f":[[["",{"children":["participante",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ipsvptw6dx37.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/13wlpkxog3k4r.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function () {\n  var base = 'http://raw.laisla.wtf/data';\n  var p = location.pathname.replace(/\\/+$/, '') || '/';\n  var needsContent = ['/', '/temporadas', '/temporada', '/ver', '/buscar'].indexOf(p) !== -1;\n  var needsPeople = ['/', '/temporadas', '/temporada', '/participantes', '/participante', '/buscar'].indexOf(p) !== -1;\n  function get(file) {\n    var pr = fetch(base + '/' + file, { cache: 'no-cache' }).then(function (r) {\n      if (!r.ok) throw new Error(file + ' ' + r.status);\n      return r.json();\n    });\n    // La vista la consume más tarde: sin esto el navegador avisaría de una\n    // promesa rechazada sin manejar si el JSON falla.\n    pr.catch(function () {});\n    return pr;\n  }\n  var early = {};\n  if (needsContent) early.content = get('content.json');\n  if (needsPeople) early.people = get('participants.json');\n  window.__lidltEarly = early;\n})();"}}],["$","link",null,{"rel":"preconnect","href":"http://raw.laisla.wtf","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://album.mediaset.es"}],["$","link",null,{"rel":"dns-prefetch","href":"https://album.mediaset.es"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"id":"fonts-css","rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Space+Grotesk:wght@600;700&display=swap","media":"print"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(l){if(!l)return;function on(){l.media='all'}if(l.sheet){on()}else{l.addEventListener('load',on)}})(document.getElementById('fonts-css'));"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\ntry {\n  if (!localStorage.getItem('cookie_ok')) {\n    document.documentElement.classList.add('needs-consent');\n  }\n} catch (e) {\n  document.documentElement.classList.add('needs-consent');\n}"}}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"\n.needs-consent,\n.needs-consent body {\n  overflow: hidden !important;\n}\n.needs-consent #cookie-gate {\n  display: flex !important;\n}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://laisla.wtf/#website\",\"url\":\"https://laisla.wtf/\",\"name\":\"La Isla de las Tentaciones\",\"inLanguage\":\"es-ES\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://laisla.wtf/buscar/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"defer":true,"src":"/shield.js"}]]}],["$","body",null,{"className":"flex min-h-screen flex-col bg-isla-dark text-white","children":[["$","a",null,{"href":"#contenido","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100] focus:rounded-xl focus:bg-brand-500 focus:px-4 focus:py-2 focus:font-semibold focus:text-black","children":"Saltar al contenido"}],["$","div",null,{"className":"page-glow pointer-events-none fixed inset-0 z-0 overflow-hidden","aria-hidden":"true","children":[["$","div",null,{"className":"absolute -top-1/3 left-1/4 h-[400px] w-[800px] rounded-full bg-brand-500/[0.035] blur-[150px]"}],"$L3"]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La"]}]]}]]}],{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"WpPIcx2xgBjEbQUEPMr6V"}
+11:I[54787,["/_next/static/chunks/13wlpkxog3k4r.js"],"default"]
+12:I[27754,["/_next/static/chunks/13wlpkxog3k4r.js"],"default"]
+13:I[27922,["/_next/static/chunks/13wlpkxog3k4r.js"],"default"]
+14:I[39756,["/_next/static/chunks/13wlpkxog3k4r.js"],"default"]
+15:I[37457,["/_next/static/chunks/13wlpkxog3k4r.js"],"default"]
+16:I[18703,["/_next/static/chunks/13wlpkxog3k4r.js"],"default"]
+18:I[78568,["/_next/static/chunks/13wlpkxog3k4r.js","/_next/static/chunks/1i3mmdrdxb1fn.js"],"default"]
+1a:I[97367,["/_next/static/chunks/13wlpkxog3k4r.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/_next/static/chunks/13wlpkxog3k4r.js"],"ViewportBoundary"]
+1f:I[97367,["/_next/static/chunks/13wlpkxog3k4r.js"],"MetadataBoundary"]
+3:["$","div",null,{"className":"absolute bottom-0 right-1/4 h-[300px] w-[600px] rounded-full bg-brand-600/[0.025] blur-[120px]"}]
+4:[["$","header",null,{"className":"bar-blur sticky top-0 z-50 border-b border-white/[0.07]","children":["$","nav",null,{"className":"mx-auto flex h-16 max-w-7xl items-center gap-1 px-4 sm:px-6 lg:px-8","aria-label":"Principal","children":[["$","a",null,{"href":"/","className":"focus-ring group mr-2 flex items-center gap-2.5 rounded-xl","aria-label":"La Isla de las Tentaciones — Inicio","children":[["$","span",null,{"className":"flex h-8 w-8 items-center justify-center rounded-lg bg-brand-500/15 text-base ring-1 ring-brand-500/25","aria-hidden":"true","children":"🌴"}],["$","span",null,{"className":"font-display text-lg font-bold leading-none text-white transition-colors group-hover:text-brand-400","children":"La Isla"}]]}],["$","$L11",null,{"variant":"desktop"}],["$","div",null,{"className":"ml-auto flex items-center gap-2","children":[["$","button",null,{"type":"button","data-search-trigger":true,"className":"focus-ring flex items-center gap-2 rounded-xl border border-white/[0.08] bg-white/[0.03] py-2 pl-3 pr-2.5 text-sm text-zinc-400 transition-colors hover:border-white/[0.16] hover:text-white","aria-label":"Buscar episodios y participantes","children":[["$","svg",null,{"className":"h-4 w-4 flex-shrink-0","fill":"none","stroke":"currentColor","strokeWidth":"2","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m21 21-5.2-5.2m0 0a7.5 7.5 0 1 0-10.6-10.6 7.5 7.5 0 0 0 10.6 10.6Z"}]}],["$","span",null,{"className":"hidden md:inline","children":"Buscar"}],["$","kbd",null,{"className":"ml-3 hidden rounded border border-white/10 px-1.5 py-0.5 font-sans text-[10px] text-zinc-500 md:block","children":"⌘K"}]]}],["$","details",null,{"className":"nav-menu sm:hidden","children":[["$","summary",null,{"className":"focus-ring flex cursor-pointer list-none items-center rounded-xl p-2 text-zinc-400 transition-colors hover:bg-white/[0.05] hover:text-white","aria-label":"Abrir menú","children":["$","svg",null,{"className":"h-5 w-5","fill":"none","stroke":"currentColor","strokeWidth":"2","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9h16.5m-16.5 6.75h16.5"}]}]}],["$","div",null,{"className":"absolute inset-x-0 top-full z-50 border-b border-white/[0.08] bg-isla-surface/95 p-3 shadow-2xl backdrop-blur-2xl","children":["$","$L11",null,{"variant":"mobile"}]}]]}]]}]]}]}],["$","$L12",null,{}]]
+5:["$","$L13",null,{}]
+6:["$","main",null,{"id":"contenido","className":"relative z-10 flex-1","children":["$","$L14",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L15",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-16 sm:px-6 lg:px-8","children":[["$","p",null,{"className":"font-display text-6xl font-bold text-brand-500/30 sm:text-7xl","children":"404"}],["$","h1",null,{"className":"mt-3 font-display text-2xl font-bold text-white sm:text-3xl","children":"Esta página no existe"}],["$","p",null,{"className":"mt-3 max-w-xl prose-isla","children":"Puede que el enlace esté mal escrito o que el contenido haya cambiado de dirección. Prueba con el buscador o entra directamente al catálogo."}],["$","div",null,{"className":"mt-7 flex flex-wrap gap-3","children":[["$","a",null,{"href":"/","className":"focus-ring rounded-2xl bg-brand-500 px-6 py-3 font-bold text-black transition hover:bg-brand-400","children":"Ir al inicio"}],["$","a",null,{"href":"/temporadas/","className":"focus-ring rounded-2xl border border-white/[0.1] bg-white/[0.05] px-6 py-3 font-semibold text-white transition hover:bg-white/[0.09]","children":"Ver temporadas"}],["$","a",null,{"href":"/buscar/","className":"focus-ring rounded-2xl border border-white/[0.1] bg-white/[0.05] px-6 py-3 font-semibold text-white transition hover:bg-white/[0.09]","children":"Buscar"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]
+7:["$","footer",null,{"className":"relative z-10 mt-24 border-t border-white/[0.07]","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-2 gap-8 md:grid-cols-3 lg:gap-12","children":[["$","div",null,{"className":"col-span-2 md:col-span-1","children":[["$","div",null,{"className":"mb-3 flex items-center gap-2.5","children":[["$","span",null,{"className":"flex h-8 w-8 items-center justify-center rounded-lg bg-brand-500/15 text-base ring-1 ring-brand-500/25","aria-hidden":"true","children":"🌴"}],["$","span",null,{"className":"font-display font-bold text-white","children":"La Isla"}]]}],["$","p",null,{"className":"text-sm leading-relaxed text-zinc-500","children":"Reality show español en el que cinco parejas ponen a prueba su relación conviviendo por separado con solteros y solteras en un paraíso de República Dominicana."}]]}],["$","nav",null,{"aria-labelledby":"footer-seasons","children":[["$","h2",null,{"id":"footer-seasons","className":"mb-3 text-sm font-semibold text-white","children":"Temporadas"}],["$","$L16",null,{"variant":"footer"}]]}],["$","nav",null,{"aria-labelledby":"footer-explore","children":[["$","h2",null,{"id":"footer-explore","className":"mb-3 text-sm font-semibold text-white","children":"Explorar"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","a",null,{"href":"/temporadas/","className":"focus-ring rounded text-sm text-zinc-500 transition-colors hover:text-brand-400","children":"Todas las temporadas"}]}],["$","li",null,{"children":["$","a",null,{"href":"/participantes/","className":"focus-ring rounded text-sm text-zinc-500 transition-colors hover:text-brand-400","children":"Participantes"}]}],["$","li",null,{"children":["$","a",null,{"href":"/buscar/","className":"focus-ring rounded text-sm text-zinc-500 transition-colors hover:text-brand-400","children":"Buscador"}]}],["$","li",null,{"children":["$","a",null,{"href":"/extension/","className":"focus-ring rounded text-sm text-zinc-500 transition-colors hover:text-brand-400","children":"Extensión de navegador"}]}],["$","li",null,{"children":["$","a",null,{"href":"/app/","className":"focus-ring rounded text-sm text-zinc-500 transition-colors hover:text-brand-400","children":"App para Android"}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 flex flex-col items-center justify-between gap-3 border-t border-white/[0.05] pt-6 sm:flex-row","children":["$","p",null,{"className":"text-xs text-zinc-600","children":["© ",2026," laisla.wtf · Sitio no oficial de fans. Las marcas y contenidos pertenecen a sus respectivos propietarios."]}]}]]}]}]
+8:["$","div",null,{"id":"android-popup","className":"fixed inset-x-0 bottom-0 z-[9998] hidden p-4","children":["$","div",null,{"className":"mx-auto max-w-md rounded-2xl border border-white/10 bg-zinc-900 p-5 shadow-2xl","children":[["$","div",null,{"className":"mb-4 flex items-center gap-3","children":[["$","span",null,{"className":"flex h-11 w-11 items-center justify-center rounded-xl bg-brand-500/15 text-2xl","aria-hidden":"true","children":"🌴"}],["$","div",null,{"children":[["$","h2",null,{"className":"font-display text-base font-bold text-white","children":"La Isla para Android"}],["$","p",null,{"className":"text-xs text-zinc-500","children":"Sin navegador, sin anuncios"}]]}]]}],["$","div",null,{"className":"flex gap-3","children":[["$","button",null,{"type":"button","id":"android-popup-close","className":"focus-ring flex-1 rounded-xl border border-white/10 px-4 py-2.5 text-sm font-medium text-zinc-400 transition-colors hover:bg-white/[0.04]","children":"Ahora no"}],["$","a",null,{"href":"/app/","className":"focus-ring flex-1 rounded-xl bg-brand-500 px-4 py-2.5 text-center text-sm font-semibold text-black transition-colors hover:bg-brand-400","children":"Descargar"}]]}]]}]}]
+9:["$","div",null,{"id":"cookie-gate","className":"fixed inset-0 z-[10100] hidden items-end justify-center","role":"dialog","aria-modal":"true","aria-labelledby":"cookie-title","children":[["$","div",null,{"className":"absolute inset-0 bg-black/80 backdrop-blur-[2px]"}],["$","div",null,{"className":"relative mx-auto mb-6 w-[min(92vw,34rem)] px-4 sm:mb-10","children":["$","div",null,{"className":"relative rounded-2xl border border-white/10 bg-zinc-900 p-6 shadow-2xl","children":[["$","div",null,{"className":"absolute -bottom-2 left-1/2 h-4 w-4 -translate-x-1/2 rotate-45 border-b border-r border-white/10 bg-zinc-900","aria-hidden":"true"}],["$","h2",null,{"id":"cookie-title","className":"font-display text-lg font-bold text-white","children":"Usamos cookies"}],["$","p",null,{"className":"mt-2 text-sm leading-relaxed text-zinc-400","children":"Utilizamos cookies propias y de terceros para analizar el tráfico y mostrar contenido personalizado. Para continuar navegando por la web es necesario aceptarlas."}],["$","button",null,{"type":"button","id":"cookie-accept","className":"focus-ring mt-5 w-full rounded-xl bg-brand-500 px-5 py-3 font-bold text-black transition-colors hover:bg-brand-400","children":"Aceptar y continuar"}]]}]}]]}]
+17:Td10,
+(function () {
+  // Normaliza la ruta a su forma con barra final. Las URLs se generan
+  // siempre así, pero un enlace antiguo o un marcador puede no llevarla.
+  if (!/\.[a-z0-9]+$/i.test(location.pathname) && !location.pathname.endsWith('/')) {
+    history.replaceState(null, '', location.pathname + '/' + location.search + location.hash);
+  }
+
+  var path = location.pathname;
+  var ua = navigator.userAgent || '';
+
+  function store(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+  function read(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+
+  // ── Puerta de consentimiento ──
+  function loadAnalytics() {
+    if (/^\/(extension|app)(\/|$)/.test(path)) return;
+    var s = document.createElement('script');
+    s.src = '/lidlt.js';
+    s.defer = true;
+    document.head.appendChild(s);
+  }
+
+  if (read('cookie_ok')) {
+    document.documentElement.classList.remove('needs-consent');
+    loadAnalytics();
+  } else {
+    var accept = document.getElementById('cookie-accept');
+    if (accept) {
+      accept.focus({ preventScroll: true });
+      accept.addEventListener('click', function () {
+        store('cookie_ok', '1');
+        document.documentElement.classList.remove('needs-consent');
+        loadAnalytics();
+      });
+    }
+
+    // Mientras no acepte no se navega: ni con teclado ni con atajos.
+    document.addEventListener(
+      'keydown',
+      function (e) {
+        if (!document.documentElement.classList.contains('needs-consent')) return;
+        if (e.key === 'Tab') {
+          e.preventDefault();
+          accept && accept.focus({ preventScroll: true });
+        } else if (e.key === 'Enter' || e.key === ' ') {
+          if (document.activeElement === accept) return;
+          e.preventDefault();
+        } else if (e.key !== 'F5' && !e.metaKey && !e.ctrlKey) {
+          e.preventDefault();
+        }
+      },
+      true,
+    );
+  }
+
+  // ── Android app invite ──
+  if (/Android/i.test(ua) && !read('android_popup_seen') && !/^\/app(\/|$)/.test(path)) {
+    setTimeout(function () {
+      var p = document.getElementById('android-popup');
+      if (!p) return;
+      p.classList.remove('hidden');
+      var close = document.getElementById('android-popup-close');
+      if (close) close.addEventListener('click', function () {
+        p.classList.add('hidden');
+        store('android_popup_seen', '1');
+      });
+    }, 2500);
+  }
+
+  // ── Service worker ──
+  // En local nunca: un SW cacheando CSS/JS de URLs fijas deja el
+  // navegador servido con estilos de una build anterior, y el problema
+  // es invisible porque no da ningún error. Si hay uno instalado de
+  // antes, se elimina junto con sus cachés.
+  var esLocal = /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
+
+  if ('serviceWorker' in navigator) {
+    if (esLocal) {
+      navigator.serviceWorker.getRegistrations().then(function (rs) {
+        rs.forEach(function (r) { r.unregister(); });
+      }).catch(function () {});
+      if (window.caches && caches.keys) {
+        caches.keys().then(function (ks) {
+          ks.forEach(function (k) { caches.delete(k); });
+        }).catch(function () {});
+      }
+    } else {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('/sw.js').catch(function () {});
+      });
+    }
+  }
+})();a:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$17"}}]
+b:["$","$1","c",{"children":[null,["$","$L14",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L15",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+19:["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","h1",null,{"className":"font-display text-2xl font-bold text-white","children":"Participantes"}],["$","p",null,{"className":"mt-3 prose-isla","children":"Esta página necesita JavaScript. Aquí tienes las fichas ya publicadas:"}],["$","p",null,{"className":"mt-5","children":["$","a",null,{"href":"/participantes/","className":"text-brand-400 hover:text-brand-300","children":"Ver todos los participantes"}]}]]}]
+c:["$","$1","c",{"children":[[["$","$L18",null,{}],["$","noscript",null,{"children":"$19"}]],[["$","script","script-0",{"src":"/_next/static/chunks/1i3mmdrdxb1fn.js","async":true,"nonce":"$undefined"}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}]
+e:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L20"}]}]}],null]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ipsvptw6dx37.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:C
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#09090b"}]]
+21:I[27201,["/_next/static/chunks/13wlpkxog3k4r.js"],"IconMark"]
+1c:null
+20:[["$","title","0",{"children":"Participante | La Isla de las Tentaciones"}],["$","meta","1",{"name":"description","content":"Fichas de los participantes de La Isla de las Tentaciones: edad, origen, pareja y temporada."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"La Isla"}],["$","link","5",{"rel":"canonical","href":"https://laisla.wtf/participante/"}],["$","link","6",{"rel":"alternate","hrefLang":"es","href":"https://laisla.wtf/participante/"}],["$","link","7",{"rel":"alternate","hrefLang":"x-default","href":"https://laisla.wtf/participante/"}],["$","meta","8",{"property":"og:title","content":"Participante"}],["$","meta","9",{"property":"og:description","content":"Fichas de los participantes de La Isla de las Tentaciones: edad, origen, pareja y temporada."}],["$","meta","10",{"property":"og:url","content":"https://laisla.wtf/participante/"}],["$","meta","11",{"property":"og:site_name","content":"La Isla de las Tentaciones"}],["$","meta","12",{"property":"og:locale","content":"es_ES"}],["$","meta","13",{"property":"og:image","content":"https://laisla.wtf/images/og-default.jpg"}],["$","meta","14",{"property":"og:image:alt","content":"Participante"}],["$","meta","15",{"property":"og:type","content":"profile"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Participante"}],["$","meta","18",{"name":"twitter:description","content":"Fichas de los participantes de La Isla de las Tentaciones: edad, origen, pareja y temporada."}],["$","meta","19",{"name":"twitter:image","content":"https://laisla.wtf/images/og-default.jpg"}],["$","link","20",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link","21",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L21","22",{}]]
